@@ -1,10 +1,10 @@
-import './index.css';
-import Navbar from "./components/shared/navbar";
+import "./index.css";
+import Home from "./screens/home";
 
 function App() {
   return (
-    <div >
-      <Navbar />
+    <div>
+      <Home />
     </div>
   );
 }
